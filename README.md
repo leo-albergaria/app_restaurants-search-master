@@ -2,6 +2,7 @@
     <h1># Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google</h1> 
     <p align="justify">
     Nesse projeto vamos contruir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e a API do Google. O projeto é desenvolvido do zero a nuvem.
+    Excelente trabalho Professor Patrick Narciso.
     </p>
 </p>      
 
