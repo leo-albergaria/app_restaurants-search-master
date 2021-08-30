@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/131338247-067d516a-69e1-4d1a-bf21-b18dd8e95030.png" align="left" height="150px" width="150px">
+    <h1># Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesse projeto vamos contruir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e a API do Google. O projeto é desenvolvido do zero a nuvem.
     </p>
 </p>      
 
